@@ -14,5 +14,5 @@ This project implements an AI-powered travel assistant that answers tourist ques
 - "What are the must-see artworks at the Louvre Museum?"
 
 ## Tech Stack
-Python
-OpenAI API
+- Python
+- OpenAI API
