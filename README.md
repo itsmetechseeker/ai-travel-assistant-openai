@@ -1,6 +1,7 @@
 # AI Travel Assistant using OpenAI API
 
-This project implements an AI-powered travel assistant that answers tourist questions about visiting Paris.
+This project was developed using DataCamp DataLab. 
+The project implements an AI-powered travel assistant that answers tourist questions about visiting Paris.
 
 ## Features
 - Uses OpenAI API
